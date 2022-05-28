@@ -52,7 +52,7 @@ header {
 .product-info p {
   color: #003768;
   margin-bottom: 25px;
-  font-size: 30px;
+  font-size: 35px;
 }
 .product-info a {
   background-color: rgb(20, 115, 230);
@@ -60,6 +60,7 @@ header {
   padding: 10px 50px;
   border-radius: 25px;
   text-decoration: none;
+  font-size: 22px;
 }
 .product-info a:hover {
   text-decoration: none;
@@ -72,6 +73,7 @@ header {
   margin-bottom: 25px;
   font-size: 30px;
   text-align: center;
+  font-weight: bold;
 }
 .product-right {
   background-image: url("../images/Asset-1.png");

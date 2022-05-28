@@ -60,7 +60,7 @@ header {
 .product-info a {
   background-color:#007DC3;
   color: #fff;
-  padding: 10px 50px;
+  padding: 6px 25px;
   border-radius: 25px;
   text-decoration: none;
   font-size: 22px;
@@ -152,7 +152,7 @@ section.product{
     top: 23px;
     right: 29px;
     text-align: center;
-    width: 268px;
+    width: 280px;
   }
 }
 /* end serave info with video and description */

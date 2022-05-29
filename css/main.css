@@ -121,6 +121,16 @@ section.product{
   height:100%;
   width: 100%;
 }
+.social-links{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 50px;
+}
+.social-links a img{
+  border-radius:50%;
+}
 @media (max-width: 991px) {
   .serave-info-description {
     margin-top: 30px;
